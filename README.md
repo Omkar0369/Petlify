@@ -1,2 +1,0 @@
-# Petlify
-Tinder for pets
